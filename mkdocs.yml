@@ -1,0 +1,7 @@
+site_name: KCS Teacher Technical Manual
+site_url: https://ttm.kcs.me
+dev_addr: '0.0.0.0:8000'
+
+nav:
+  - Home: index.md
+  - Tech Support: techsupport.md
