@@ -1,7 +1,7 @@
 ![](https://lh7-us.googleusercontent.com/tqDwa3sqUrk9ZnTFZ_CtrWKO3ad4V7j_aVHPocMnFM5undbWPuz3dYAR9D4plRpk5jibuWVL_x4wh5d1nOxs88WjAj_K767QWw_rRm6uqlM4waQSnriBS51zkRvjUJG4OZ3bPgK9I7aOx7qT6IVO_A)
 # Software and Services
 
-## Amplify/CKLA (⭐⭐⭐)
+## Amplify/CKLA
 
 Amplify CKLA is based on research showing that closing the background knowledge gap is necessary for closing the reading gap and ensuring equity for all students.
 
@@ -14,8 +14,7 @@ It may ask if you are a teacher or a student. Select teacher:
 ![](https://lh7-us.googleusercontent.com/7qAxUHjY-z6pfM9JxTrT5PqRQ_B_5TLSaAwrShIUccqFYHu56hdGMzQ1YWPwb3q5XyrvYaTOb9EnjZK67rizTatL8LQouHZ8uY17U7eTSS3nJT0tEvidkWAP-Fl-j_DsF0lxy8l1Y6yeHVFF7KQaOxY)
 
 You’ll then be signed in.
-## Securly Pass (formerly e-Hallpass) (⭐⭐)
-
+## Securly Pass (formerly e-Hallpass)
 Securly Pass is used at the middle school and high school to manage hall passes. Logins are done with your KCS Google account.
 
 ### Tips & Tricks for Securlypass:
@@ -29,7 +28,7 @@ Securly Pass is used at the middle school and high school to manage hall passes.
 
 If none of those steps fix the issue, please submit a help desk ticket and we will investigate further.
 
-## McGraw-Hill/Connected/Everyday Math (⭐⭐⭐)
+## McGraw-Hill/Connected/Everyday Math
 
 McGraw-Hill is a large collection of various online resources used at Kenton City Schools.
 
@@ -43,7 +42,7 @@ It may ask if you are a teacher or a student. Select teacher:
 
 You’ll then be signed in.
 
-## MobyMax (⭐⭐⭐)
+## MobyMax
 
 MobyMax is an online suite of learning solutions designed to provide K-6 teachers with CCSS-aligned content, assessments, and activities for all topics and subject areas.
 
@@ -57,11 +56,13 @@ It may ask if you are a teacher or a student. Select teacher:
 
 You’ll then be signed in.
 
-## Papercut  (⭐⭐⭐⭐)
+## Papercut
 
 Papercut manages printing and copying in the district. To use the copiers, each user will receive an email with their copied PIN after the first time they print.
 
-## Progressbook StudentInformation (SI) & Gradebook (GB) (⭐⭐⭐)
+If the user doesn't have their PIN, they can use the **Request Copier PIN** link in their browser bookmarks:
+**![](https://lh7-us.googleusercontent.com/SK0RFz6ONqMdTROKJgMkc62nQ2-II4af2OLDsEoxsxTwwyftd2VfHI4hFOLKRc5Nztnf0krwAVysvjU0ULS2eR6glRFkKYDAr1kF-rDVrl7BEnTz6g1QEl9b4IQoY3ufAIU31EasgC-u1rvo61mQLls)**
+## Progressbook StudentInformation (SI) & Gradebook (GB)
 
 StudentInformation is the student information system (SIS) that contains the information for all of the students of Kenton City Schools. Gradebook is used to manage your classroom grades, attendance, and more.
 
@@ -73,15 +74,15 @@ StudentInformation is the student information system (SIS) that contains the inf
 - Restart Chrome    
 - Restart your computer
 
-## Progressbook ParentAccess (PA) (⭐⭐⭐)
+## Progressbook ParentAccess (PA)
 
 ParentAccess is the interface for parents and students to access their grades and other records at Kenton City Schools.
 
-## SAVVAS  (⭐⭐⭐)
+## SAVVAS 
 
 SAVVAS consists of the following products: Realize & Simcheck by Turnitin. Accounts and rostering of your classes is done automatically from StudentInformation. However, assigning products to classes is not done automatically.
 
-### Tips & Tricks for SAVVAS**
+### Tips & Tricks for SAVVAS
 
 #### Signing in
 
@@ -99,7 +100,7 @@ Click on EasyBridge and sign in with your Kenton City Schools Google account. Yo
 
 Click on Add Products or Manage Products to add or remove products from your classes. You can verify the roster of students with the Student Roster button. If there are any issues with students in your classes, verify the student’s schedule with whomever handles scheduling in your building.
 
-## Swank Movie Licensing  (⭐⭐⭐)
+## Swank Movie Licensing 
 
 KCS now has a subscription to Swank K-12 Streaming, which offers access to over 30,000 movies titles licensed for use in the classroom. To get started follow these [instructions provided by Swank](https://docs.google.com/presentation/d/1Bj-WVQ2fdZaR2vrKFsPFVEtfUs71V2cG/edit?usp=drive_link&ouid=114297711352977039955&rtpof=true&sd=true). That document has the code you will need to use to sign up. Once you are signed up, you can [request titles here](https://digitalcampus.swankmp.net/admin/KCSD397792/licensed-content-manager).
 
