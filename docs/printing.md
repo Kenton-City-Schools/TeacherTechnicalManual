@@ -1,5 +1,5 @@
 ![](https://lh7-us.googleusercontent.com/7nssH2bLD2KE-9rUDG1mqT3ULqWjOWkC0swOY-Q4ufKBH4bP5u2ACd5Etm73plRbVliWzbqZfd45c7AxS8fn1u6rUhY_sXmJ66wvDjm-7DuZrws_tj-LOpMjPQtVlpe2gZnLqSA8Y1ehAVmRvLIxuBQ)
-# Printing at KCS
+# Printing and Scanning at KCS
 
 Papercut handles the copiers at Kenton City Schools. You will print to kcs-copier and be able to pick up your print job from any copier in the district. To print, you'll select kcs-copier from the list (Notice the green icon and the text Mobility Print):
 
@@ -129,3 +129,7 @@ For the first part, you will need to open the problem PDF in Adobe Reader instea
     
 
 The process will take much longer than normal, but that’s the price for actually getting a document to print.
+
+## How do I scan documents with the copier?
+
+After you put your PIN into the copier, one of the destinations will be ME. Tap that destination, set your scanning options, and hit Copy/Scan. The documents will be scanned and emailed to you.**
