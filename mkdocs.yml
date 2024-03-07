@@ -6,6 +6,7 @@ nav:
   - Home: index.md
   - Tech Support: techsupport.md
   - Printing at KCS: printing.md
+  - Frequently Asked Questions: faq.md
 
 theme:
   name: material
